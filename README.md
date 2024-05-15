@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **luizsl/luizsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[SpectCube](https://pypi.org/project/spectcube/) - A Python package for flux-conserving spectra rebinning  
+[![Downloads](https://static.pepy.tech/badge/spectcube)](https://pepy.tech/project/spectcube)
