@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[SpectCube](https://pypi.org/project/spectcube/) - A Python package for flux-conserving rebinning of spectra
+[SpectCube](https://pypi.org/project/spectcube/) - A Python package for flux-conserving rebinning of spectra  
 [![Downloads](https://static.pepy.tech/badge/spectcube)](https://pepy.tech/project/spectcube)
